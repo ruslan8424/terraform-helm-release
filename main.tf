@@ -1,4 +1,4 @@
-module "appruslan" {
+module "wordpress" {
   source    = "./module"
   namespace = "default"
   name      = "wordpress"
