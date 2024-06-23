@@ -1,6 +1,3 @@
-# Usage
-### Please add the  folloving code
-```
 module "appruslan" {
   source    = "./module"
   namespace = "default"
@@ -19,5 +16,3 @@ image:
   ]
 
 }
-
-```
